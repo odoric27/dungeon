@@ -375,11 +375,6 @@ public class Game {
 	public static void battleControls(Player player) {
 		String[] controls = new String[4];
 		
-			//initialize controls array
-			for(int i = 0; i < controls.length; i++) {
-				controls[i] = " ";
-			}
-		
 		controls[0] = "1: attack";
 		controls[1] = "2: defend";
 		controls[2] = "3: inventory";
