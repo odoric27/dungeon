@@ -1,0 +1,5 @@
+This is a work in progress, started some time ago with grand ambitions, but mostly as practice.
+
+Terminal-based dungeon crawler with one level, a few equip-able items, and random encounters [need to fix the random encounters... they occur to often]
+
+Next big challenge I want to tackle on this is random dungeon generation with different obstacles and arbitrary, but legal key planets for access to locked doors.
